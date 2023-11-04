@@ -2,6 +2,7 @@ import getNeighbours from "./helpers/getNeighbours";
 
 function bfs(startNode, endNode, grid) {
 
+
     const queue = [];
     const visited = [];
     const path = [];

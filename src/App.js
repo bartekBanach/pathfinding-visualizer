@@ -14,9 +14,11 @@ import { useState } from 'react';
 function App() {
 
   const [firstLoad, setFirstLoad] = useState(true);
+
+
   return (
     <div className="App">
-      <BrowserRouter basename={process.env.REACT_APP_URI}>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
         <div className="pages">
           <Routes>
