@@ -1,0 +1,50 @@
+.modal {
+    top: 10%;
+    background-color: white;
+    z-index: 1000;
+    padding: 0rem 1.5rem;
+    border: 1px solid black;
+    width: 70%;
+  
+  }
+
+.modal-b {
+  font-weight: 700;
+}
+
+  .modal-introduction {
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+
+  }
+
+  .modal-main-header {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .modal-header {
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  .modal-text {
+    font-size: 1.1rem;
+  }
+  
+  .modal-btn {
+    border: none;
+    background-color: rgb(80, 103, 153);
+    color: white;
+    padding: 1rem;
+    cursor: pointer;
+    margin: 0 auto;
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 1.2rem;
+    margin-top: 0.5rem;
+    width: 100%;
+  }
+
+

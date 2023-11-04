@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&family=VT323&display=swap');
+
+:root {
+    --primary: #1aac83;
+    --error: #e7195a;
+    --lightgray:#f8f9f9;
+    --darkergray:#e5e7e9; 
+    --darkgray:  #a6acaf;
+    --almostwhite:  #fdfefe;
+    --orange: #f8c471;
+    --black: #1B1B1A ; 
+    --primary: #aed6f1;
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+  }
+

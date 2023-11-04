@@ -1,0 +1,23 @@
+.node {
+    width: 1.2rem;
+    height: 1.2rem;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.node-start {
+    background-color: lightskyblue;
+}
+
+.node {
+    text-align: center;
+    font-weight: 400;
+}
+
+.node-end {
+    background-color: lightgreen;
+}
+
+.isWall {
+    background-color: var(--black);
+}
